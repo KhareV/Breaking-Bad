@@ -2,6 +2,8 @@
 
 This is a React project that uses the Breaking Bad API to display and filter characters from the popular TV show, Breaking Bad.
 
+![Landing Page](sc.png)
+
 ## Overview
 
 The Breaking Bad Character Viewer is a web application that fetches data from the Breaking Bad API and displays information about the characters from the show. Users can filter characters based on various criteria.
